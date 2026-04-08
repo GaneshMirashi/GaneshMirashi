@@ -1,16 +1,74 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Ganesh Mirashi</h1>
+<h3 align="center">Full Stack Developer | Next.js | Django | Fintech Applications</h3>
 
-<!--
-**GaneshMirashi/GaneshMirashi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://github.com/GaneshMirashi">
+    <img src="https://img.shields.io/github/followers/GaneshMirashi?label=Followers&style=social" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 💻 Full Stack Developer with 2 years of experience  
+- 🏦 Working on fintech platforms (Lending & KYC systems)  
+- ⚡ Skilled in building scalable APIs and modern frontend apps  
+- 📈 Focused on performance optimization and clean architecture  
+
+---
+
+## 🛠️ Tech Stack
+
+### 🚀 Frontend
+`Next.js` `React` `TypeScript` `Tailwind CSS`
+
+### ⚙️ Backend
+`Django` `Django REST Framework` `REST APIs`
+
+### 🗄️ Database
+`PostgreSQL` `CockroachDB` `MySQL`
+
+### 🧰 Tools & Others
+`Git` `Docker` `Kafka` `GCP`
+
+---
+
+## 📂 Projects
+
+### 🔹 MvLEND – Lending Platform
+- Built scalable APIs for loan lifecycle and transactions  
+- Used Kafka for asynchronous processing  
+- Designed backend using Django REST Framework  
+
+### 🔹 MvKYC – KYC Platform
+- Role-based KYC verification system  
+- Secure document handling  
+- Blockchain-based identity validation  
+
+---
+
+## 🌐 Portfolio
+👉 https://ganesh-portfolio-mu.vercel.app/
+
+---
+
+## 📫 Connect With Me
+
+- 📧 Email: ganeshmirashi62@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/ganesh-mirashi-69822322a/  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GaneshMirashi&show_icons=true&theme=default" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GaneshMirashi" />
+</p>
+
+---
+
+⭐️ From Ganesh Mirashi
