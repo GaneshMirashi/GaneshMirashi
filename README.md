@@ -57,6 +57,3 @@
 - 📧 Email: ganeshmirashi62@gmail.com  
 - 💼 LinkedIn: https://www.linkedin.com/in/ganesh-mirashi-69822322a/  
 
----
-
-⭐️ From Ganesh Mirashi
