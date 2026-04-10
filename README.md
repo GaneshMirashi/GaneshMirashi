@@ -65,13 +65,6 @@ Role-based KYC verification system with secure document handling.
 
 ---
 
-### 📈 GitHub Stats
-
-![Ganesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GaneshMirashi&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GaneshMirashi&layout=compact&theme=radical)
-
----
-
 ### 🌐 Connect With Me
 - **Email**: ganeshmirashi62@gmail.com
 - **LinkedIn**: [Ganesh Mirashi](https://www.linkedin.com/in/ganesh-mirashi-69822322a/)
