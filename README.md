@@ -2,7 +2,6 @@
 <h3 align="center">Full Stack Developer | Building Scalable Fintech Systems with Next.js & Django</h3>
 
 <p align="center">
-  <a href="https://github.com/GaneshMirashi"><img src="https://img.shields.io/github/followers/GaneshMirashi?label=Followers&style=social" /></a>
   <a href="https://linkedin.com/in/ganesh-mirashi-69822322a/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" /></a>
   <a href="https://ganesh-portfolio-mu.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-brightgreen" /></a>
 </p>
