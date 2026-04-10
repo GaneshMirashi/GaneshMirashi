@@ -61,8 +61,6 @@ Role-based KYC verification system with secure document handling.
 - Integrated secure document upload & validation  
 - Added blockchain-based identity features
 
-*(Add 1 more project if you have it, or a personal open-source tool)*
-
 ---
 
 ### 🌐 Connect With Me
