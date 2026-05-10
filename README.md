@@ -162,14 +162,6 @@ Secure identity verification and onboarding platform with document validation an
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=GaneshMirashi&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
----
-
 # 🌐 Connect With Me
 
 <p align="center">
