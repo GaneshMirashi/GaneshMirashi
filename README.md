@@ -99,7 +99,7 @@ Passionate about building reliable, high-performance systems with clean architec
 
 ### Engineering Highlights
 
-* 🚀 50+ Production REST APIs
+* 🚀 40+ Production REST APIs
 * ⚡ Event-Driven Kafka Workflows
 * 🔐 Secure Authentication & RBAC
 * 📈 Query Optimization & Performance Tuning
