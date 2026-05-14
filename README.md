@@ -85,7 +85,7 @@ Passionate about building reliable, high-performance systems with clean architec
 
 ### Key Contributions
 
-* Designed, developed, and maintained **50+ production-grade REST APIs** using Django REST Framework.
+* Designed, developed, and maintained **40+ production-grade REST APIs** using Django REST Framework.
 * Built scalable fintech workflows for onboarding, KYC verification, repayments, loan lifecycle management, and transaction systems.
 * Implemented **Kafka-based event-driven architecture** for asynchronous processing and workflow scalability.
 * Reduced API response times through PostgreSQL query optimization, indexing, and backend performance improvements.
