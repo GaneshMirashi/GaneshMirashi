@@ -29,7 +29,7 @@ Full Stack Engineer • Django • Next.js • Scalable Fintech Systems
 
 Full Stack Engineer with **2+ years of experience** building scalable fintech and enterprise applications using **Django**, **Django REST Framework**, **Next.js**, and modern backend infrastructure.
 
-Experienced in designing and maintaining **40+ production-grade REST APIs** powering lending, KYC verification, onboarding, repayments, transaction processing, and authentication workflows.
+Experienced in designing and maintaining **30+ production-grade REST APIs** powering lending, KYC verification, onboarding, repayments, transaction processing, and authentication workflows.
 
 Strong expertise in:
 
@@ -85,7 +85,7 @@ Passionate about building reliable, high-performance systems with clean architec
 
 ### Key Contributions
 
-* Designed, developed, and maintained **40+ production-grade REST APIs** using Django REST Framework.
+* Designed, developed, and maintained **30+ production-grade REST APIs** using Django REST Framework.
 * Built scalable fintech workflows for onboarding, KYC verification, repayments, loan lifecycle management, and transaction systems.
 * Implemented **Kafka-based event-driven architecture** for asynchronous processing and workflow scalability.
 * Reduced API response times through PostgreSQL query optimization, indexing, and backend performance improvements.
@@ -99,7 +99,7 @@ Passionate about building reliable, high-performance systems with clean architec
 
 ### Engineering Highlights
 
-* 🚀 40+ Production REST APIs
+* 🚀 30+ Production REST APIs
 * ⚡ Event-Driven Kafka Workflows
 * 🔐 Secure Authentication & RBAC
 * 📈 Query Optimization & Performance Tuning
