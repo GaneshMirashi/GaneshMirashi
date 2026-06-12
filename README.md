@@ -27,7 +27,7 @@ Full Stack Engineer • Django • Next.js • Scalable Fintech Systems
 
 # 🚀 Professional Overview
 
-Full Stack Engineer with **2+ years of experience** building scalable fintech and enterprise applications using **Django**, **Django REST Framework**, **Next.js**, and modern backend infrastructure.
+Full Stack Engineer with **3+ years of experience** building scalable fintech and enterprise applications using **Django**, **Django REST Framework**, **Next.js**, and modern backend infrastructure.
 
 Experienced in designing and maintaining **30+ production-grade REST APIs** powering lending, KYC verification, onboarding, repayments, transaction processing, and authentication workflows.
 
