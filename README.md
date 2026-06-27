@@ -1,4 +1,4 @@
-# Hi 👋, I'm Ganesh Mirashi
+# Hi, I'm Ganesh Mirashi
 
 <h3 align="center">
 Full Stack Engineer • Django • Next.js • Scalable Fintech Systems
