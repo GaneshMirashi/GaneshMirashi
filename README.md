@@ -56,7 +56,7 @@ Passionate about building reliable, high-performance systems with clean architec
 ## Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,django,redis,docker" />
+  <img src="https://skillicons.dev/icons?i=python,django,FastAPI,redis,docker" />
 </p>
 
 <p>
