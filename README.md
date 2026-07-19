@@ -27,21 +27,13 @@ Full Stack Engineer • Django • Next.js • Scalable Fintech Systems
 
 # 🚀 Professional Overview
 
-Full Stack Engineer with **3+ years of experience** building scalable fintech and enterprise applications using **Django**, **Django REST Framework**, **Next.js**, and modern backend infrastructure.
+Results-driven **Python Full Stack Engineer** with **3+ years of experience** designing, building, and delivering enterprise-grade web applications across fintech and core banking domains.
 
-Experienced in designing and maintaining **30+ production-grade REST APIs** powering lending, KYC verification, onboarding, repayments, transaction processing, and authentication workflows.
+Specialized in developing scalable backend systems using **Django**, **Django REST Framework**, **FastAPI**, and modern frontend applications with **Next.js**, **React.js**, and **TypeScript**.
 
-Strong expertise in:
+Contributed to **40+ production-grade RESTful and asynchronous APIs** supporting authentication, onboarding, lending, KYC verification, transaction processing, and job application management. Experienced in building event-driven systems using **Kafka**, implementing background processing with **Celery** and **Redis**, optimizing PostgreSQL databases, and designing scalable microservices.
 
-* Scalable backend architecture
-* Event-driven systems using Kafka
-* Performance optimization
-* Database query tuning
-* Secure authentication systems
-* Microservices-based workflows
-* Responsive frontend engineering
-
-Passionate about building reliable, high-performance systems with clean architecture and production-ready engineering practices.
+Skilled in **JWT Authentication**, **Role-Based Access Control (RBAC)**, **Docker**, **CI/CD**, **Google Cloud Platform (GCP)**, and modern software engineering practices. Passionate about building reliable, secure, and high-performance applications with clean architecture and scalable system design.
 
 ---
 
@@ -79,32 +71,33 @@ Passionate about building reliable, high-performance systems with clean architec
 
 # 💼 Experience
 
-## Software Developer — GTPL (Fintech Startup)
+## Software Engineer — Gowdanar Technosoft Pvt Ltd
 
-📍 Bangalore • May 2024 – Present
+📍 Bangalore • May 2023 – Present
 
 ### Key Contributions
 
-* Designed, developed, and maintained **30+ production-grade REST APIs** using Django REST Framework.
-* Built scalable fintech workflows for onboarding, KYC verification, repayments, loan lifecycle management, and transaction systems.
-* Implemented **Kafka-based event-driven architecture** for asynchronous processing and workflow scalability.
-* Reduced API response times through PostgreSQL query optimization, indexing, and backend performance improvements.
-* Developed responsive enterprise dashboards and admin platforms using Next.js and TypeScript.
-* Implemented JWT authentication, RBAC authorization, and secure access management systems.
-* Worked on scalable microservices architecture and backend service integrations.
-* Integrated third-party APIs for verification, workflow automation, and secure processing systems.
-* Built reusable backend modules and utilities improving development efficiency across projects.
-* Participated in production deployments, debugging, issue resolution, monitoring, and performance optimization.
-* Collaborated with frontend, backend, QA, and product teams to deliver scalable production-ready applications.
+- Designed and developed scalable full-stack applications using **Django REST Framework**, **FastAPI**, **Next.js**, and **TypeScript** for enterprise fintech platforms.
+- Contributed to **40+ production-grade RESTful and asynchronous APIs** supporting authentication, onboarding, lending, repayments, KYC verification, and transaction processing.
+- Optimized PostgreSQL queries, indexing strategies, and database schemas to improve API performance and response times.
+- Built asynchronous processing pipelines using **Celery**, **Redis**, and **WebSockets** for real-time updates and background task execution.
+- Implemented **Kafka-based event-driven architecture** to support scalable and decoupled backend services.
+- Applied clean architecture and microservices principles to improve code maintainability and service scalability.
+- Developed secure authentication systems using **JWT** and **Role-Based Access Control (RBAC)**.
+- Containerized applications using **Docker** and **Docker Compose**, supporting **CI/CD pipelines** with **GitHub Actions** and deployments on **Google Cloud Platform (GCP)**.
+- Integrated third-party APIs to automate workflows and enhance platform capabilities.
+- Collaborated with cross-functional teams following Agile/Scrum methodologies to deliver production-ready software.
 
 ### Engineering Highlights
 
-* 🚀 30+ Production REST APIs
-* ⚡ Event-Driven Kafka Workflows
-* 🔐 Secure Authentication & RBAC
-* 📈 Query Optimization & Performance Tuning
-* 🏗️ Microservices & Scalable Architecture
-* 💳 Fintech Lending & KYC Systems
+- 🚀 40+ Production REST APIs
+- ⚡ Kafka Event-Driven Architecture
+- 🔄 Celery & Redis Background Processing
+- 🔐 JWT Authentication & RBAC
+- 📈 PostgreSQL Performance Optimization
+- 🏗️ Microservices & Clean Architecture
+- ☁️ Docker, CI/CD & GCP Deployments
+- 💳 Fintech Lending & Core Banking Systems
 
 ---
 
