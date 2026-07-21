@@ -5,8 +5,7 @@ Full Stack Engineer • Django • Next.js • Scalable Fintech Systems
 </h3>
 
 <p align="center">
-  Building production-grade fintech platforms with scalable APIs,
-  event-driven systems, and modern backend architecture.
+  Building scalable fintech platforms with production-grade APIs, event-driven systems, and modern backend architectures.
 </p>
 
 <p align="center">
@@ -128,16 +127,17 @@ Secure identity verification and onboarding platform with document validation an
 
 ### Tech Stack
 
-`Django` `Next.js` `Blockchain Integration`
+`Django` `Next.js` `Blockchain Integration` `Celery` `Kafka` `JWT` `REST APIs`
 
-### Highlights
+# 📊 Engineering Highlights
 
-* Built scalable KYC verification and onboarding APIs
-* Implemented role-based access control and audit workflows
-* Developed secure document upload and validation systems
-* Added blockchain-based identity verification features
-* Created compliance workflows and verification pipelines
-* Improved onboarding workflow reliability and scalability
+- 🚀 Built 30+ Production REST APIs
+- ⚡ Kafka Event-Driven Processing
+- 🔐 JWT Authentication & RBAC
+- 📈 Optimized PostgreSQL Performance
+- 💳 Fintech Lending & KYC Platforms
+- 🌐 Third-Party API Integrations
+- 🏗️ Scalable Backend Architecture
 
 ---
 
