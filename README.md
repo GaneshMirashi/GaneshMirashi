@@ -141,6 +141,23 @@ Secure identity verification and onboarding platform with document validation an
 
 ---
 
+## 🔹 JobTrackr — AI-Powered Job Application Tracker
+
+AI-powered platform for tracking job applications with Kanban workflows, resume analysis, and interview management.
+
+### Tech Stack
+
+Django • DRF • Next.js • PostgreSQL • JWT • Gemini API • Docker
+
+### Highlights
+
+• Developed scalable REST APIs using DRF ViewSets.
+• Built drag-and-drop Kanban workflow.
+• Resume upload (PDF/DOC/DOCX).
+• AI Resume Analyzer using Google Gemini API.
+• Search, filtering, ordering & pagination.
+• Activity timeline.
+
 # 📈 GitHub Analytics
 
 <!-- <p align="center">
